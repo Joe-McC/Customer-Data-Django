@@ -4,4 +4,6 @@ backend\api\__pycache__
 
 
 backend/api/__pycache__/*
-backend/gdpr_compliance_backend/__pycache__/*
+backend/gdpr_compliance_backend/__pycache__/
+
+*.pyc
